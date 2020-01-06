@@ -19,6 +19,7 @@ def grade(grade)
       return y
     end
   end
+end
   
 end
 

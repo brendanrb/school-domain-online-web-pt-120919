@@ -13,7 +13,7 @@ def add_student(student, grade)
 end
 
 def grade(grade)
-  
+  roster.include? 
   
 end
 

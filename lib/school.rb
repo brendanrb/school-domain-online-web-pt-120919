@@ -23,7 +23,7 @@ end
   
 def sort
   hash = {}
-  
+  roster.sort
   
   
   

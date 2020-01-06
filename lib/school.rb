@@ -14,7 +14,7 @@ end
 
 def grade(grade)
   roster.include? do |x,y|
-    
+    if 
   
 end
 

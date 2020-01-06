@@ -23,7 +23,8 @@ end
   
 def sort
   hash = {}
-  roster.sort
+  roster.each do |x, y|
+    
   
   
   

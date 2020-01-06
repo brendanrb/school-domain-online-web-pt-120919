@@ -7,8 +7,8 @@ def initialize(name)
   @roster = {}
 end
 
-def add_student(student, level)
-  roster[level]
+def add_student(student, grade)
+  roster[grade]
 end
   
 end

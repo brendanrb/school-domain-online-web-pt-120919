@@ -7,7 +7,7 @@ def initialize(name)
   @roster = {}
 end
 
-def add_student=(add_student)
+def add_student(student, level)
   @add_student = add_student
   roster << add_student
 end
